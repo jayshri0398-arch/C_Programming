@@ -1,0 +1,11 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.gch
+
+# Debug files
+*.dSYM/
+
+# IDE settings
+.vscode/
